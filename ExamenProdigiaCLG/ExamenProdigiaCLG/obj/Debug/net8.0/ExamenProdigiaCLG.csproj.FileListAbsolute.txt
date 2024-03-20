@@ -1,0 +1,14 @@
+C:\Users\jenny\ExamenProdigiaCLG\ExamenProdigiaCLG\bin\Debug\net8.0\ExamenProdigiaCLG.exe
+C:\Users\jenny\ExamenProdigiaCLG\ExamenProdigiaCLG\bin\Debug\net8.0\ExamenProdigiaCLG.deps.json
+C:\Users\jenny\ExamenProdigiaCLG\ExamenProdigiaCLG\bin\Debug\net8.0\ExamenProdigiaCLG.runtimeconfig.json
+C:\Users\jenny\ExamenProdigiaCLG\ExamenProdigiaCLG\bin\Debug\net8.0\ExamenProdigiaCLG.dll
+C:\Users\jenny\ExamenProdigiaCLG\ExamenProdigiaCLG\bin\Debug\net8.0\ExamenProdigiaCLG.pdb
+C:\Users\jenny\ExamenProdigiaCLG\ExamenProdigiaCLG\obj\Debug\net8.0\ExamenProdigiaCLG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenny\ExamenProdigiaCLG\ExamenProdigiaCLG\obj\Debug\net8.0\ExamenProdigiaCLG.AssemblyInfoInputs.cache
+C:\Users\jenny\ExamenProdigiaCLG\ExamenProdigiaCLG\obj\Debug\net8.0\ExamenProdigiaCLG.AssemblyInfo.cs
+C:\Users\jenny\ExamenProdigiaCLG\ExamenProdigiaCLG\obj\Debug\net8.0\ExamenProdigiaCLG.csproj.CoreCompileInputs.cache
+C:\Users\jenny\ExamenProdigiaCLG\ExamenProdigiaCLG\obj\Debug\net8.0\ExamenProdigiaCLG.dll
+C:\Users\jenny\ExamenProdigiaCLG\ExamenProdigiaCLG\obj\Debug\net8.0\refint\ExamenProdigiaCLG.dll
+C:\Users\jenny\ExamenProdigiaCLG\ExamenProdigiaCLG\obj\Debug\net8.0\ExamenProdigiaCLG.pdb
+C:\Users\jenny\ExamenProdigiaCLG\ExamenProdigiaCLG\obj\Debug\net8.0\ExamenProdigiaCLG.genruntimeconfig.cache
+C:\Users\jenny\ExamenProdigiaCLG\ExamenProdigiaCLG\obj\Debug\net8.0\ref\ExamenProdigiaCLG.dll
